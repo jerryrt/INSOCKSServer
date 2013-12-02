@@ -1,3 +1,3 @@
 [submodule "GCDAsyncSocket"]
 	path = GCDAsyncSocket
-	url = git@github.com:nonatomicdev/GCDAsyncSocket.git
+	url = https://github.com/nonatomicdev/GCDAsyncSocket.git
